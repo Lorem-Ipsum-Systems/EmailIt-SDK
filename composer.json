@@ -1,5 +1,5 @@
 {
-    "name": "lorempsum/emailit",
+    "name": "loremipsum/emailit",
     "description": "SDK for Emailit API",
     "type": "library",
     "require": {
