@@ -29,7 +29,7 @@ The `EmailItMailer` library is a PHP wrapper for interacting with the **EmailIt 
 Use Composer to install the library:
 
 ```bash
-composer require lorem-ipsum/email-it
+composer loremipsum-systems/emailit
 ```
 
 ---
